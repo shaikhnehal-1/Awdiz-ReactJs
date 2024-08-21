@@ -18,11 +18,4 @@ function App() {
   );
 }
 
-// export function MyApp(){
-
-// }
-// export function MyApp(){
-
-// }
-
 export default App;
